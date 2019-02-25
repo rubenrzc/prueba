@@ -6,7 +6,11 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 
 import javax.swing.JFrame;
-
+/**
+ * 
+ * @author stone ruben zaranton caro
+ *
+ */
 public class FicheroAleatorioVentana {
 
 	public static void main(String[] args) throws IOException {
